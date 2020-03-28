@@ -6,7 +6,7 @@ My Python implementation and simulation of:
 - Multilayer perceptron, five McCulloch-Pitts neurons with 5 inputs, each feeding into 3 neurons in 2nd layer (Task 3)
 
 Requirements for each task are described in the relevant Task 1/2/3 jpg files.
-The file can be found in the main folder.
+The files can be found in the main folder.
 
 Each task is coded in a separate Jupyter notebook:
 - Task1-Neuron.ipynb

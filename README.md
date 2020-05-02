@@ -1,6 +1,6 @@
 # Perceptron
-My Python implementation and simulation of:
-- A single McCulloch-Pitts neuron with 4 inputs (warm up)
+My Python implementation, and simulation of:
+- A single McCulloch-Pitts neuron with 4 inputs (warm up exercise)
 - A single McCulloch-Pitts neuron with 10 inputs (Task 1)
 - Perceptron, five McCulloch-Pitts neurons with 5 inputs each (Task 2)
 - Multilayer perceptron, five McCulloch-Pitts neurons with 5 inputs, each feeding into 3 neurons in 2nd layer (Task 3)
